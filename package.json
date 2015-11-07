@@ -1,0 +1,23 @@
+{
+	"name": "stream-divider",
+	"description": "divide stream by separator",
+	"version": "0.0.1",
+	"author": {
+		"name": "vicanso 小墨鱼",
+		"email": "vicansocanbico@gmail.com"
+	},
+	"keywords": [
+		"stream",
+		"divide",
+		"readline"
+	],
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/vicanso/stream-divider.git"
+	},
+	"readmeFilename": "README.md",
+	"dependencies": {},
+	"devDependencies": {},
+	"readme": "divide stream by separator"
+}
